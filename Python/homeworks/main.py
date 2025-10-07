@@ -1,4 +1,5 @@
 # brrr changes to dev
+# changes part 2
 
 # -*- coding: utf-8 -*-
 """lesson_3.ipynb
